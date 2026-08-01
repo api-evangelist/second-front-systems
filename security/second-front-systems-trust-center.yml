@@ -1,0 +1,41 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+source: https://trust.secondfront.com/
+url: https://trust.secondfront.com/
+certifications:
+- SOC 2 Type 1
+- SOC 2 Type 2
+- ISO/IEC 27001:2022
+- ISO/IEC 27017:2015
+- ISO/IEC 27018:2019
+- ISO/IEC 20000-1:2018
+- ISO 9001:2015
+- ISO 14001
+- FedRAMP High
+- FedRAMP 20x
+- GovRAMP
+- DoD IL2
+- DoD IL4
+- DoD IL5
+- DoD IL6
+- CMMC
+- NIST 800-53 Rev. 5
+- NIST 800-171 Rev. 2
+- FIPS 140-2
+- FIPS 140-3
+- Cyber Essentials
+- Cyber Essentials Plus
+- C5
+- AWS Qualified Software
+evidence:
+- source: https://trust.secondfront.com/
+  keywords:
+  - soc 2
+  - iso/iec 27001
+  - fedramp
+  - trust center
+  - compliance certification
+- source: https://trust.secondfront.com/
+  method: searched
+  note: Full certification roster read from the Trust Center compliance listing.
